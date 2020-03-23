@@ -289,6 +289,9 @@ static NTSTATUS ioctl_request_mmap(
   
     __try
     {
+#if (NTDDI_VERSION < NTDDI_WIN8)
+        MmBuildMdlForNonPagedPool(DeviceContext->shmemMDL);
+#endif
         DeviceContext->shmemMap = MmMapLockedPagesSpecifyCache(
           DeviceContext->shmemMDL,
           UserMode,
