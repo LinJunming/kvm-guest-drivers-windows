@@ -1,7 +1,7 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio 15
-VisualStudioVersion = 15.0.28010.2048
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29911.84
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "VirtIO", "VirtIO", "{9B50A368-22AC-421A-BA77-FA2BC760D7D9}"
 EndProject
@@ -831,10 +831,10 @@ Global
 		{03CA149C-ACBD-430E-A663-30D3A335F8A4}.Win2k3 Release|x64.ActiveCfg = Win10 Release|x64
 		{03CA149C-ACBD-430E-A663-30D3A335F8A4}.Win2k3 Release|x86.ActiveCfg = Win10 Release|Win32
 		{03CA149C-ACBD-430E-A663-30D3A335F8A4}.Win7 Release|ARM64.ActiveCfg = Win10 Release|x64
-		{03CA149C-ACBD-430E-A663-30D3A335F8A4}.Win7 Release|x64.ActiveCfg = Win10 Release|x64
-		{03CA149C-ACBD-430E-A663-30D3A335F8A4}.Win7 Release|x64.Deploy.0 = Win10 Release|x64
-		{03CA149C-ACBD-430E-A663-30D3A335F8A4}.Win7 Release|x86.ActiveCfg = Win10 Release|Win32
-		{03CA149C-ACBD-430E-A663-30D3A335F8A4}.Win7 Release|x86.Deploy.0 = Win10 Release|Win32
+		{03CA149C-ACBD-430E-A663-30D3A335F8A4}.Win7 Release|x64.ActiveCfg = Win7 Release|x64
+		{03CA149C-ACBD-430E-A663-30D3A335F8A4}.Win7 Release|x64.Deploy.0 = Win7 Release|x64
+		{03CA149C-ACBD-430E-A663-30D3A335F8A4}.Win7 Release|x86.ActiveCfg = Win7 Release|Win32
+		{03CA149C-ACBD-430E-A663-30D3A335F8A4}.Win7 Release|x86.Deploy.0 = Win7 Release|Win32
 		{03CA149C-ACBD-430E-A663-30D3A335F8A4}.Win8 Release|ARM64.ActiveCfg = Win8 Release|x64
 		{03CA149C-ACBD-430E-A663-30D3A335F8A4}.Win8 Release|x64.ActiveCfg = Win8 Release|x64
 		{03CA149C-ACBD-430E-A663-30D3A335F8A4}.Win8 Release|x64.Build.0 = Win8 Release|x64
